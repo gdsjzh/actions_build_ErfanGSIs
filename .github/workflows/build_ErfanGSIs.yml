@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/m2091/8.1.2.0/cn/20200430030803/b9a2a945/update.zip
+  ROM_URL: https://petchesa.net/1/1407888/?var=2876028
   ROM_NAME: Generic
   TZ: Xiaomi/shenzhen
 
