@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.5.29/miui_LAVENDER_20.5.29_948ff2b863_10.0.zip
+  ROM_URL: https://hugeota.d.miui.com/20.6.23/miui_GINKGO_20.6.23_4fe1867df2_10.0.zip
   ROM_NAME: MIUI
   TZ: Xiaomi/shenzhen
 
