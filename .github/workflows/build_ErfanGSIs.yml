@@ -16,7 +16,7 @@ on:
     
 env:
   ROM_URL: https://hugeota.d.miui.com/20.7.2/miui_UMI_20.7.2_bb17565fc5_11.0.zip
-  ROM_NAME: MIUI
+  ROM_NAME: Generic
   TZ: Xiaomi/Shenzhen
 
 jobs:
