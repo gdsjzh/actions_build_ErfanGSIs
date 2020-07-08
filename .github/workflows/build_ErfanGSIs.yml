@@ -15,7 +15,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.7.2/miui_UMI_20.7.2_bb17565fc5_11.0.zip
+  ROM_URL: https://hugeota.d.miui.com/20.7.6/miui_UMI_20.7.6_93693604d7_11.0.zip
   ROM_NAME: Generic
   TZ: Xiaomi/Shenzhen
 
