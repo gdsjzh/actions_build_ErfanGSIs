@@ -61,9 +61,8 @@ jobs:
        
        - name: Upload GSI to BitSend
          run: |
-              curl -sL https://git.io/cowtransfer | sh 
-              ./cowtransfer-uploader -cookie="remember-me=18635251037cookies;" final/GSI.zip
-         
+              curl -sL https://git.io/file-transfer | sh
+              ./transfer bit final/GSI.zip
             
 
 
